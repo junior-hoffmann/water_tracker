@@ -1,16 +1,24 @@
-# agua
+# Água 💧
 
-A new Flutter project.
+Bem-vindo ao **Água**, um aplicativo Flutter projetado para ajudar você a monitorar e manter sua hidratação diária de forma prática! Com uma interface intuitiva, o Água é seu companheiro ideal para garantir que você beba a quantidade certa de água todos os dias.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Registro de Consumo**: Adicione facilmente a quantidade de água que você bebe ao longo do dia.
+- **Meta Personalizada**: Defina sua meta diária de hidratação com base nas suas necessidades pessoais.
+- **Acompanhamento de Progresso**: Visualize seu progresso diário e histórico de forma simples e prática.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework para desenvolvimento multiplataforma
+- **Dart**: Linguagem de programação
+- **Shared Preferences**: Para armazenamento local de preferências
+- **SQFlite:** Para armazenamento local de dados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📬 Contato
+
+Tem sugestões? Entre em contato enviando um e-mail para juniocode@gmail.com
+
+---
+
+**Beba água, cuide-se e aproveite o app!** 💦
